@@ -40,4 +40,10 @@ The macropad's core functionality is powered by KMK Firmware, a powerful and fle
 
 ### PCB
 
+![Schematic](https://github.com/DevomB/Dev-s_DevPad/blob/main/Images/Schematic.png?raw=true)
+
+![PCB](https://github.com/DevomB/Dev-s_DevPad/blob/main/Images/PCB.png?raw=true)
+
 ### CAD
+
+![](https://github.com/DevomB/Dev-s_DevPad/blob/main/Images/Case.png?raw=true)
